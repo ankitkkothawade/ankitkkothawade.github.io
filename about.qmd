@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+I'm Ankit Kothawade, a data scientist in Glasgow. I decode UK public data and test forecasts honestly, including the ones where I lose.
+
+MSc Advanced Computer Science with Data Science (Distinction), University of Strathclyde. Before that I built production ETL pipelines at Cognizant and co-founded an AdTech startup.
+
+## Roles I'm looking for
+
+Data analyst and data scientist roles in the UK. I hold a Graduate Route visa and don't need sponsorship.
+
+## Work with me
+
+Small analytics projects on UK public data: dashboards, data-quality checks, forecasting benchmarks. Message me on [LinkedIn](https://www.linkedin.com/in/ankit-kothawade/).

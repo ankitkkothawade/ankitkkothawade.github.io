@@ -1,0 +1,11 @@
+---
+title: "Series"
+---
+
+- **Decoded**: UK public data, explained (ONS, FCA, NESO, Payment Practices, Companies House).
+- **Craft**: SQL, spreadsheets and dashboards at the level a hiring test asks for.
+- **Notes**: business lessons from a startup and a consulting year.
+- **Scoreboard**: models benchmarked honestly against a real baseline.
+- **Reality Check**: testing GenAI claims instead of repeating them.
+
+Browse a series from the categories on the [home page](index.qmd).

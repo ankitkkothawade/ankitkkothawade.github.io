@@ -1,0 +1,32 @@
+project:
+  type: website
+  # resources:
+  #   - google<token>.html   # Search Console HTML-file verification, once you have the token
+  #   - CNAME                 # only if you add a custom domain later
+
+website:
+  title: "Ankit Kothawade · Benchmarked"
+  description: "I decode UK public data and test forecasts honestly, and I explain what the numbers mean for a business."
+  site-url: https://ankitkkothawade.github.io
+  repo-url: https://github.com/ankitkkothawade/ankitkkothawade.github.io
+  open-graph: true
+  twitter-card: true
+  navbar:
+    left:
+      - text: Series
+        href: series.qmd
+      - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/ankitkkothawade
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ankit-kothawade/
+      - icon: rss
+        href: index.xml
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-copy: true
+    include-in-header: goatcounter.html
